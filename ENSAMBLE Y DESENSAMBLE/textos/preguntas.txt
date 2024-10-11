@@ -1,0 +1,7 @@
+5
+
+'¿Cuál de estas palabras son primitivas?'
+'De estas palabras, ¿cuáles son derivadas?'
+'De estas palabras, ¿cuáles primitivas?'
+'De estas palabras, ¿cuáles derivadas'
+'Marca las palabras primitivas'
